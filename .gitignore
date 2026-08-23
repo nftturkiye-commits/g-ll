@@ -1,0 +1,21 @@
+# Build artefacts
+/build/
+/dist/
+/out/
+
+# CAD files (binary)
+*.stl
+*.obj
+*.fbx
+*.sldprt
+*.sldasm
+
+# 3D printer files
+*.gcode
+
+# IDE / editor files
+*.iml
+.idea/
+.vscode/
+*.swp
+*~
